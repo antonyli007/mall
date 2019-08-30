@@ -1,1 +1,1 @@
-FROM gcr.io/istio-release/citadel:release-1.2-latest-daily
+FROM gcr.io/istio-release/mixer:release-1.2-latest-daily
