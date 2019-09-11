@@ -1,1 +1,1 @@
-FROM grafana/grafana:6.1.6
+FROM quay.io/kiali/kiali:v0.20
