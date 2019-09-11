@@ -1,1 +1,1 @@
-FROM gcr.io/istio-release/sidecar_injector:release-1.2-latest-daily
+FROM grafana/grafana:6.1.6
