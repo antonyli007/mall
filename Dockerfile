@@ -1,1 +1,1 @@
-FROM quay.io/kiali/kiali:v0.20
+FROM gcr.io/google_containers/hyperkube:v1.14.6
