@@ -1,1 +1,1 @@
-FROM jimmidyson/configmap-reload:v0.3.0
+FROM quay.io/coreos/prometheus-config-reloader:v0.37.0
