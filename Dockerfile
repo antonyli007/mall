@@ -1,1 +1,1 @@
-FROM quay.io/prometheus/alertmanager:v0.20.0
+FROM jimmidyson/configmap-reload:v0.3.0
