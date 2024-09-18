@@ -1,1 +1,1 @@
-FROM quay.io/prometheus/prometheus:v2.15.2
+FROM wurstmeister/kafka
