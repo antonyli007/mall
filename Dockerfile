@@ -1,1 +1,1 @@
-FROM wurstmeister/kafka:2.13-2.6.0
+FROM zookeeper:3.6
