@@ -1,1 +1,1 @@
-FROM zookeeper:3.6
+FROM kafkamanager/kafka-manager
