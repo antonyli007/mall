@@ -1,1 +1,1 @@
-FROM kafkamanager/kafka-manager
+FROM gcrcontainer/kube-cross
