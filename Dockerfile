@@ -1,1 +1,1 @@
-FROM calico/node:v3.13.5
+FROM gitlab/gitlab-ee:13.10.5-ee.0
