@@ -1,1 +1,1 @@
-FROM tykling/dns_exporter:latest
+FROM calico/cni:v3.13.5
