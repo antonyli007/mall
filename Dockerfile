@@ -1,1 +1,1 @@
-FROM docker.io/bitnami/nginx-ingress-controller:1.9.4-debian-11-r1
+FROM docker.io/bitnami/nginx:1.25.3-debian-11-r1
