@@ -1,1 +1,1 @@
-FROM docker.io/bitnami/nginx:1.25.3-debian-11-r1
+FROM docker.io/calico/kube-controllers:v3.23.5
