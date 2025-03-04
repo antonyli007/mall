@@ -1,1 +1,1 @@
-FROM rancher/rancher:v2.7.9
+FROM calico/ctl:v3.25.0
