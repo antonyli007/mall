@@ -1,1 +1,1 @@
-FROM rancher/mirrored-coredns-coredns:1.12.0
+FROM rancher/mirrored-pause:3.6
