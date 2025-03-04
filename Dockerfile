@@ -1,1 +1,1 @@
-FROM docker.io/calico/node:v3.23.5
+FROM rancher/rancher:v2.7.9
