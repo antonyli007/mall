@@ -1,1 +1,1 @@
-FROM rancher/mirrored-pause:3.6
+FROM rancher/mirrored-metrics-server:v0.7.2
