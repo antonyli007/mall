@@ -1,1 +1,1 @@
-FROM rancher/mirrored-metrics-server:v0.7.2
+FROM rancher/local-path-provisioner:v0.0.31
