@@ -1,1 +1,1 @@
-FROM calico/ctl:v3.23.5
+FROM rancher/mirrored-coredns-coredns:1.12.0
