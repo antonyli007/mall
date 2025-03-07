@@ -1,1 +1,1 @@
-FROM quay.io/prometheus-operator/prometheus-operator:v0.68.0
+FROM docker.io/grafana/grafana:10.1.4
