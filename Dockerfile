@@ -1,1 +1,1 @@
-FROM docker.io/grafana/grafana:10.1.4
+FROM cr.fluentbit.io/fluent/fluent-bit:1.0.4
