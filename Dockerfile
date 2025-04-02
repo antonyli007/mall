@@ -1,1 +1,1 @@
-FROM docker.io/calico/kube-controllers:v3.27.5
+FROM docker.io/calico/node:v3.27.5
