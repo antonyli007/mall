@@ -1,1 +1,1 @@
-FROM docker.io/calico/node-driver-registrar:v3.27.5
+FROM docker.io/calico/pod2daemon-flexvol:v3.27.5
