@@ -1,1 +1,1 @@
-FROM docker.io/calico/pod2daemon-flexvol:v3.27.5
+FROM quay.io/external_storage/nfs-client-provisioner:v3.1.1 
