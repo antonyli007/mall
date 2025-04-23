@@ -1,1 +1,1 @@
-FROM quay.io/prometheus/node-exporter:v1.7.0
+FROM quay.io/kiwigrid/k8s-sidecar:1.25.2
