@@ -1,1 +1,1 @@
-FROM feiyu563/prometheus-alert:v4.9.1
+FROM docker.io/kubernetesui/dashboard-auth:1.1.3
