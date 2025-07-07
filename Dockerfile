@@ -1,1 +1,1 @@
-FROM docker.io/kubernetesui/dashboard-auth:1.1.3
+FROM quay.io/prometheus/prometheus:v2.48.0
