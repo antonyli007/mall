@@ -1,1 +1,1 @@
-FROM quay.io/prometheus/alertmanager:v0.26.0
+FROM registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.10.1
