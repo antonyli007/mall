@@ -1,1 +1,1 @@
-FROM skywalking.docker.scarf.sh/apache/skywalking-ui:8.8.1
+FROM skywalking.docker.scarf.sh/apache/skywalking-ui:9.4.0
