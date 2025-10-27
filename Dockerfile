@@ -1,1 +1,1 @@
-FROM skywalking.docker.scarf.sh/apache/skywalking-oap-server:9.4.0
+FROM mirrorgooglecontainers/kube-cross:v1.12.10-1
