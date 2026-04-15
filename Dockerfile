@@ -1,1 +1,1 @@
-FROM mirrorgooglecontainers/kube-cross:v1.12.10-1
+FROM envoyproxy/gateway:v0.3.0
